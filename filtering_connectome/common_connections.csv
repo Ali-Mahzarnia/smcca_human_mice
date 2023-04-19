@@ -1,0 +1,5 @@
+"","V1","V2","V3","V4"
+"1","ctx-lh-caudalanteriorcingulate--Left-Cerebellum-Cortex","18--1","Cingulate_Cortex_Area_24a--Left Cerebellar_Cortex","1--91"
+"2","Left-Cerebellum-Cortex--ctx-lh-caudalanteriorcingulate","1--18","Cerebellar_Cortex--Left Cingulate_Cortex_Area_24a","91--1"
+"3","ctx-lh-rostralanteriorcingulate--ctx-lh-fusiform","41--22","Cingulate_Cortex_Area_32--Left Primary_Visual_Cortex_Binocular_Area","9--36"
+"4","ctx-lh-fusiform--ctx-lh-rostralanteriorcingulate","22--41","Primary_Visual_Cortex_Binocular_Area--Left Cingulate_Cortex_Area_32","36--9"
