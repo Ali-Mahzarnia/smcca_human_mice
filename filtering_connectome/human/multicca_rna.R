@@ -61,7 +61,7 @@ riskfactors$risk_for_ad=as.factor(riskfactors$risk_for_ad)
 riskfactors$Age=as.numeric(riskfactors$age)
 
 riskfactors=as.data.frame(riskfactors)
-riskfactors =riskfactors%>%dplyr::select(Genotype ,Weight, Sex, Age, risk_for_ad)
+riskfactors =riskfactors%>%dplyr::select(Genotype ,Weight, Sex, Age)
 
 riskfactors[] <- lapply(riskfactors, as.numeric)
 class(riskfactors)
